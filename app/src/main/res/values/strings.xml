@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Petagram</string>
+    <string name="titulo" translatable="false">Petagram</string>
+</resources>
